@@ -1,0 +1,23 @@
+{
+  "name": "project-6-puppeteer-scraping-alan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/make-it-bit/project-6-puppeteer-scraping-alan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/make-it-bit/project-6-puppeteer-scraping-alan/issues"
+  },
+  "homepage": "https://github.com/make-it-bit/project-6-puppeteer-scraping-alan#readme",
+  "dependencies": {
+    "puppeteer": "^20.7.0"
+  }
+}
