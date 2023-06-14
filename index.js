@@ -18,8 +18,9 @@ const main = async () => {
   });
 
   console.log(getCarsLinks);
+  // await autoScroll(page);
 
-  await browser.close();
+  // await browser.close();
 };
 
 const autoScroll = async (page) => {
